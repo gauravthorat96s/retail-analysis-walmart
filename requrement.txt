@@ -1,0 +1,6 @@
+jupyeter notebook
+data set 
+pandas
+numpy
+matplotlib
+seaborn
